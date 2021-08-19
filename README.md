@@ -13,5 +13,5 @@ https://snvaladez.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by SNValadez
 
-
+# Run Buddy Inc.
 
